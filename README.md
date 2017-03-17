@@ -1,7 +1,8 @@
 # Django-Nginx-uWSGI-Supervisor
 Build a Django web application on linux
 
-#what's need
+# what's need
+<br>
 yum -y install epel-release
 <br>
 yum -y install python-django
